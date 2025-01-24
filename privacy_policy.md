@@ -1,6 +1,6 @@
 # Privacy Policy for Crypto Analyzer
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** [24.01.2025]  
 
 This Privacy Policy describes how **Crypto Analyzer** ("we", "our", or "us") handles information collected from users interacting with our AI-driven services.
 
